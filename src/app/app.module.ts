@@ -6,6 +6,8 @@ import { AppComponent } from './app.component';
 import { RouterModule } from '@angular/router';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatTableModule } from '@angular/material/table';
+import {HttpClientModule} from '@angular/common/http';
+import { FormsModule } from '@angular/forms';
 // import { MaterialModule } from 'src/material-module';
 
 
@@ -19,8 +21,9 @@ import { MatTableModule } from '@angular/material/table';
     AppRoutingModule,
     RouterModule,
     BrowserAnimationsModule,
-    // MaterialModule
-    MatTableModule
+    HttpClientModule,
+    MatTableModule,
+    FormsModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

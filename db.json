@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+      { "id": 1, "name": "John Doe", "email": "john@example.com", "age": 25 },
+      { "id": 2, "name": "Jane Smith", "email": "jane@example.com", "age": 32 },
+      { "id": 3, "name": "Mike Johnson", "email": "mike@example.com", "age": 40 },
+      { "id": 4, "name": "Sarah Davis", "email": "sarah@example.com", "age": 28 },
+      { "id": 5, "name": "Mark Wilson", "email": "mark@example.com", "age": 35 },
+      { "id": 6, "name": "Emily Brown", "email": "emily@example.com", "age": 31 },
+      { "id": 7, "name": "Daniel Jones", "email": "daniel@example.com", "age": 39 },
+      { "id": 8, "name": "Olivia Taylor", "email": "olivia@example.com", "age": 27 },
+      { "id": 9, "name": "Michael Miller", "email": "michael@example.com", "age": 33 },
+      { "id": 10, "name": "Sophia Martinez", "email": "sophia@example.com", "age": 42 },
+      { "id": 11, "name": "Jacob Anderson", "email": "jacob@example.com", "age": 29 },
+      { "id": 12, "name": "Emma Thomas", "email": "emma@example.com", "age": 36 },
+      { "id": 13, "name": "Joshua Clark", "email": "joshua@example.com", "age": 30 },
+      { "id": 14, "name": "Ava Rodriguez", "email": "ava@example.com", "age": 38 },
+      { "id": 15, "name": "William Davis", "email": "william@example.com", "age": 26 },
+      { "id": 16, "name": "Mia Garcia", "email": "mia@example.com", "age": 34 },
+      { "id": 17, "name": "James Wilson", "email": "james@example.com", "age": 41 },
+      { "id": 18, "name": "Sofia Johnson", "email": "sofia@example.com", "age": 29 },
+      { "id": 19, "name": "Benjamin Martinez", "email": "benjamin@example.com", "age": 37 },
+      { "id": 20, "name": "Charlotte Brown", "email": "charlotte@example.com", "age": 25 },
+      { "id": 21, "name": "Joseph Smith", "email": "joseph@example.com", "age": 33 },
+      { "id": 22, "name": "Avery Jones", "email": "avery@example.com", "age": 40 },
+      { "id": 23, "name": "Chloe Taylor", "email": "chloe@example.com", "age": 28 },
+      { "id": 24, "name": "David Miller", "email": "david@example.com", "age": 35 },
+      { "id": 25, "name": "Harper Wilson", "email": "harper@example.com", "age": 31 },
+      { "id": 26, "name": "Alexander Davis", "email": "alexander@example.com", "age": 39 },
+      { "id": 27, "name": "Ella Clark", "email": "ella@example.com", "age": 27 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
